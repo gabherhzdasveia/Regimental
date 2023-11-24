@@ -1,1 +1,1 @@
-# Regimental
+# Regimental front-end
